@@ -1,18 +1,17 @@
 # PDA
-Programming for Data Analysis Assignment 2019
+**Programming for Data Analysis Assignment 2019 - EDEL CORCORAN ID#:G00010824**
 
-Project Plan/Layout:
+**Project Plan/Layout**
 
-Introducion and Explain the project
-
-1.What is the numpy.random package
-2.What is the overall purpose of the package
-3.Explanation of the "Simple Random Data" function
-4.Explanation of the "Permutation" function
-5.Use and Purpose of 5 dictributions functions of numpy.random
-6.Use of seeds in generating pseudorandom numbers
-7.Summary
-8.References/Biblography
+- Introduction 
+- What is the numpy.random package
+- What is the overall purpose of the package
+- Explanation of the "Simple Random Data" function
+- Explanation of the "Permutation" function
+- Use and Purpose of 5 dictributions functions of numpy.random
+- Use of seeds in generating pseudorandom numbers
+- Summary
+- References/Biblography
 
 Also:
 - List all Software used
