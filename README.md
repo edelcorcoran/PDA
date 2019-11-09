@@ -19,3 +19,20 @@ Also:
 - Outline instructions for software used and download details
 - Outline all contents/images/plot etc
 
+How to access and download my Repository:
+- Link to access my repo on Github: https://github.com/edelcorcoran/PDA
+- Click on download/clone
+
+What's in My Repository
+Contents:
+- gitignore file
+- licence
+- numpy.random.ipynb file
+- README.md file
+- images for project 
+
+Libraries Utilised:
+- numpy as np
+- matplotlib as plt
+
+
